@@ -7,3 +7,8 @@
     object-fit: cover;
     z-index: 1;
 }
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
