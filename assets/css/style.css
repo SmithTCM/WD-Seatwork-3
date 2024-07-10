@@ -16,9 +16,13 @@ body {
 
 button {
     background-color: cyan;
-    padding: 20px;
+    padding: 20px 40px;
     color: black;
+    text-align: center;
+    text-decoration: dotted;
+    display: inline-block;
     border-radius: 10px;
     border: none;
     cursor: pointer;
+    box-shadow: 0 4px #999;
 }
