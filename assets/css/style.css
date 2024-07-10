@@ -14,7 +14,7 @@ body {
     overflow: hidden;
 }
 
-button {
+.button {
     background-color: cyan;
     padding: 20px 40px;
     color: black;
@@ -27,7 +27,7 @@ button {
     box-shadow: 0 4px #999;
 }
 
-button:active {
+.button:active {
     background-color: aquamarine;
     box-shadow: 0 2px gainsboro;
     transform: translateY(2px);
