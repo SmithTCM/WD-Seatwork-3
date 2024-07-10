@@ -9,6 +9,7 @@ container {
 }
 body {
     background-color: rebeccapurple;
+    /*background-image: ;*/
     height: 250px;
     width: 100px;
     overflow: hidden;
