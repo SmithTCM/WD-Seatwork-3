@@ -7,17 +7,11 @@ element.style{
     height: 100vh;
     overflow: hidden;
 }
-.background-img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100rem;
-    height: 100rem;
-    object-fit: cover;
-    z-index: 1;
+.body {
+    background-color: rebeccapurple;
+    
 }
 
 img {
-    overflow-clip-margin: content-box;
-    overflow: clip;
+    
 }
