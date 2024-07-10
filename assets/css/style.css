@@ -19,7 +19,7 @@ button {
     padding: 20px 40px;
     color: black;
     text-align: center;
-    text-decoration: dotted;
+    text-decoration: none;
     display: inline-block;
     border-radius: 10px;
     border: none;
