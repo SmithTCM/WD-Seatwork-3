@@ -74,8 +74,8 @@ body {
 #header9 { background-color: #8e44ad;}
 #header10 { background-color: #f39c12;}
 
-.animated-button {
-    animation: pulse 3s infinite;
+.animated-button:hover {
+    animation: pulse 1s infinite;
 }
 @keyframes pulse {
     0%, 100% {transform: scale(1);}
