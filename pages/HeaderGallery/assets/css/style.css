@@ -14,25 +14,55 @@ body {
 
 .header {
     width: 80%;
-    height: 150px;
+    height: 200px;
     margin: 10px 0;
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     font-size: 1.5em;
     color: white;
     border-radius: 10px;
     text-align: center;
 }
+.header-content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
-/* Static Headers */
+.buttons {
+    margin-top: 10px;
+}
+
+.button {
+    background-color: cyan;
+    padding: 10px 20px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px #999;
+}
+
+.button:active{
+    background-color: aquamarine;
+    box-shadow: 0 1px gainsboro;
+    transform: translateY(1px);
+}
+
 #header1 { background-color: #1abc9c; }
 #header2 { background-color: #3498db; }
 #header3 { background-color: #e74c3c; }
 #header4 { background-color: #9b59b6; }
 #header5 { background-color: #f1c40f; }
 
-/* Animated Headers */
+
 .animated-header {
     position: relative;
     overflow: hidden;
@@ -44,7 +74,10 @@ body {
 #header9 { background-color: #8e44ad; animation: pulse 3s infinite; }
 #header10 { background-color: #f39c12; animation: zoomIn 3s infinite; }
 
-/* Keyframes for animations */
+.animated-button {
+    animation: pulse 3s infinite;
+}
+
 @keyframes slideIn {
     0% { transform: translateX(-100%); }
     50% { transform: translateX(0); }
@@ -72,7 +105,7 @@ body {
 }
 
 .button {
-    background-color: cyan;
+    background-color: rgb(52, 2, 99);
     padding: 20px 40px;
     color: black;
     text-align: center;
@@ -86,7 +119,7 @@ body {
 }
 
 .button:active {
-    background-color: aquamarine;
+    background-color: rgb(rgb(153, 0, 255));
     box-shadow: 0 2px gainsboro;
     transform: translateY(2px);
 }
