@@ -87,7 +87,7 @@ body {
     animation: flash 1s infinite;
 }
 #header10 .button:hover {
-    animation: slide-in 1s infinite;
+    animation: slide 1s infinite;
 }
 
 @keyframes pulse {
