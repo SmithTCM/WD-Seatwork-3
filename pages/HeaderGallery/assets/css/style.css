@@ -84,7 +84,7 @@ body {
     animation: shake 1s infinite;
 }
 #header9 .button:hover {
-    animation: flash 1s infinite;
+    animation: reverseFlash 1s infinite;
 }
 #header10 .button:hover {
     animation: slide 1s infinite;
@@ -109,6 +109,11 @@ body {
 @keyframes flash {
     0%, 100% { opacity: 1; }
     50% { opacity: 0; }
+}
+
+@keyframes reverseFlash {
+    0%, 100% {opacity: 0; }
+    50% {opacity: 1;}
 }
 
 @keyframes slide {
