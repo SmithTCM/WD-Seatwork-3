@@ -56,7 +56,10 @@ body {
     transform: translateY(1px);
 }
 
-#header1 { background-color: #1abc9c; }
+#header1 {
+    background-color: #1abc9c;
+    background-image: url(../img/BlackHole1.jpg);
+ }
 #header2 { background-color: #3498db; }
 #header3 { background-color: #e74c3c; }
 #header4 { background-color: #9b59b6; }
