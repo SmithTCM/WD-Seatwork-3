@@ -13,7 +13,7 @@ body {
 }
 
 .header {
-    width: 80%;
+    width: 150%;
     height: 200px;
     margin: 10px 0;
     display: flex;
@@ -74,8 +74,20 @@ body {
 #header9 { background-color: #8e44ad;}
 #header10 { background-color: #f39c12;}
 
-.animated-button:hover {
+#header6 .button:hover {
     animation: pulse 1s infinite;
+}
+#header7 .button:hover {
+    animation: bounce 1s infinite;
+}
+#header8 .button:hover {
+    animation: shake 1s infinite;
+}
+#header9 .button:hover {
+    animation: flash 1s infinite;
+}
+#header10 .button:hover {
+    animation: slide-in 1s infinite;
 }
 @keyframes pulse {
     0%, 100% {transform: scale(1);}
