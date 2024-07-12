@@ -68,11 +68,11 @@ body {
     overflow: hidden;
 }
 
-#header6 { background-color: #16a085; animation: slideIn 3s infinite; }
-#header7 { background-color: #2980b9; animation: fadeIn 3s infinite; }
-#header8 { background-color: #c0392b; animation: bounce 3s infinite; }
-#header9 { background-color: #8e44ad; animation: pulse 3s infinite; }
-#header10 { background-color: #f39c12; animation: zoomIn 3s infinite; }
+#header6 { background-color: #16a085;}
+#header7 { background-color: #2980b9;}
+#header8 { background-color: #c0392b;}
+#header9 { background-color: #8e44ad;}
+#header10 { background-color: #f39c12;}
 
 .animated-button {
     animation: pulse 3s infinite;
