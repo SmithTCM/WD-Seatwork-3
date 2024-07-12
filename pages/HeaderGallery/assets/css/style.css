@@ -78,30 +78,9 @@ body {
     animation: pulse 3s infinite;
 }
 
-@keyframes slideIn {
-    0% { transform: translateX(-100%); }
-    50% { transform: translateX(0); }
-    100% { transform: translateX(-100%); }
-}
-
-@keyframes fadeIn {
-    0%, 100% { opacity: 0; }
-    50% { opacity: 1; }
-}
-
-@keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-20px); }
-}
-
 @keyframes pulse {
     0%, 100% { transform: scale(1); }
     50% { transform: scale(1.1); }
-}
-
-@keyframes zoomIn {
-    0%, 100% { transform: scale(0.5); }
-    50% { transform: scale(1); }
 }
 
 .button {
