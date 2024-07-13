@@ -39,7 +39,7 @@ body {
 .button {
     background-color: cyan;
     padding: 10px 20px;
-    color: black;
+    color: rgb(233, 147, 18);
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -47,7 +47,6 @@ body {
     margin: 5px;
     border: none;
     cursor: pointer;
-    box-shadow: 0 2px #999;
 }
 
 .button:active{
@@ -130,7 +129,7 @@ body {
 .button {
     background-color: rgb(52, 2, 99);
     padding: 20px 40px;
-    color: black;
+    color: rgb(238, 146, 9);
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -138,7 +137,6 @@ body {
     margin: 20px 10px;
     border: none;
     cursor: pointer;
-    box-shadow: 0 4px #999;
 }
 
 .button:active {
