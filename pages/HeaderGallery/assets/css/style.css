@@ -58,7 +58,7 @@ body {
 
 #header1 {
     background-color: #1abc9c;
-    background-image: url(../img/BlackHole1.jpg);
+    background-image: url("../img/BlackHole1.jpg");
  }
 #header2 { background-color: #3498db; }
 #header3 { background-color: #e74c3c; }
@@ -71,7 +71,10 @@ body {
     overflow: hidden;
 }
 
-#header6 { background-color: #16a085;}
+#header6 { 
+    background-color: #16a085;
+    background-image: url();
+}
 #header7 { background-color: #2980b9;}
 #header8 { background-color: #c0392b;}
 #header9 { background-color: #8e44ad;}
