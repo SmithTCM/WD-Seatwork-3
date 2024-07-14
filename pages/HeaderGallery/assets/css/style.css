@@ -77,7 +77,10 @@ body {
     text-align: center;
     text-decoration: none;
     color: #ffd700;
-    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
     border-radius: 10px;
     margin: 20px 10px;
     border: none;
