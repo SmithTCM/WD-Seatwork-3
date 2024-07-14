@@ -216,6 +216,8 @@ body {
  
 #header2 { 
     background-color: #100aca;
+    border-top: 2px solid #ffd700;
+    border-bottom: 2px solid #ffd700;
 }
 #header3 { background-color: #e74c3c; }
 #header4 { background-color: #9b59b6; }
