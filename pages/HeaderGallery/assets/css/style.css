@@ -57,6 +57,7 @@ body {
     border: none;
     cursor: pointer;
 }
+
 .buttons-grp1 {
     background-color: none;
     padding: 20px 40px;
@@ -69,7 +70,8 @@ body {
     border: none;
     cursor: pointer;
 }
-#header2 .buttons-grp2 {
+
+.buttons-grp2 {
     background-color: none;
     padding: 20px 40px;
     text-align: center;
@@ -81,6 +83,7 @@ body {
     border: none;
     cursor: pointer;
 }
+
 .buttons-grp3 {
     background-color: none;
     padding: 20px 40px;
@@ -93,6 +96,7 @@ body {
     border: none;
     cursor: pointer;
 }
+
 .buttons-grp4 {
     background-color: none;
     padding: 20px 40px;
@@ -105,6 +109,7 @@ body {
     border: none;
     cursor: pointer;
 }
+
 .buttons-grp5 {
     background-color: none;
     padding: 20px 40px;
@@ -117,6 +122,7 @@ body {
     border: none;
     cursor: pointer;
 }
+
 .buttons-grp6 {
     background-color: none;
     padding: 20px 40px;
@@ -129,6 +135,7 @@ body {
     border: none;
     cursor: pointer;
 }
+
 .buttons-grp7 {
     background-color: none;
     padding: 20px 40px;
@@ -141,6 +148,7 @@ body {
     border: none;
     cursor: pointer;
 }
+
 .buttons-grp8 {
     background-color: none;
     padding: 20px 40px;
@@ -153,6 +161,7 @@ body {
     border: none;
     cursor: pointer;
 }
+
 .buttons-grp9 {
     background-color: none;
     padding: 20px 40px;
@@ -165,6 +174,7 @@ body {
     border: none;
     cursor: pointer;
 }
+
 .buttons-grp10 {
     background-color: none;
     padding: 20px 40px;
@@ -177,6 +187,7 @@ body {
     border: none;
     cursor: pointer;
 }
+
 .button-landing {
     background-color: none;
     padding: 20px 40px;
