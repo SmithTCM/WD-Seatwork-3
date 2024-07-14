@@ -49,6 +49,7 @@ body {
     cursor: pointer;
 }
 .button-grp1 {
+    background-color: none;
     padding: 20px 40px;
     text-align: center;
     text-decoration: none;
