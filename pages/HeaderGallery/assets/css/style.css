@@ -69,7 +69,7 @@ body {
     border: none;
     cursor: pointer;
 }
-.buttons-grp2 {
+#header2 .buttons-grp2 {
     background-color: none;
     padding: 20px 40px;
     text-align: center;
