@@ -37,7 +37,6 @@ body {
 }
 
 .button {
-    background-color: cyan;
     padding: 10px 20px;
     color: rgb(233, 147, 18);
     text-align: center;
@@ -48,7 +47,127 @@ body {
     border: none;
     cursor: pointer;
 }
-.button-grp1 {
+.buttons-grp1 {
+    background-color: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #f39c12;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px 10px;
+    border: none;
+    cursor: pointer;
+}
+.buttons-grp2 {
+    background-color: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #f39c12;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px 10px;
+    border: none;
+    cursor: pointer;
+}
+.buttons-grp3 {
+    background-color: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #f39c12;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px 10px;
+    border: none;
+    cursor: pointer;
+}
+.buttons-grp4 {
+    background-color: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #f39c12;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px 10px;
+    border: none;
+    cursor: pointer;
+}
+.buttons-grp5 {
+    background-color: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #f39c12;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px 10px;
+    border: none;
+    cursor: pointer;
+}
+.buttons-grp6 {
+    background-color: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #f39c12;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px 10px;
+    border: none;
+    cursor: pointer;
+}
+.buttons-grp7 {
+    background-color: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #f39c12;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px 10px;
+    border: none;
+    cursor: pointer;
+}
+.buttons-grp8 {
+    background-color: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #f39c12;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px 10px;
+    border: none;
+    cursor: pointer;
+}
+.buttons-grp9 {
+    background-color: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #f39c12;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px 10px;
+    border: none;
+    cursor: pointer;
+}
+.buttons-grp10 {
+    background-color: none;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #f39c12;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px 10px;
+    border: none;
+    cursor: pointer;
+}
+.buttons-landing {
     background-color: none;
     padding: 20px 40px;
     text-align: center;
@@ -142,9 +261,7 @@ body {
 }
 
 .button {
-    background-color: rgb(52, 2, 99);
     padding: 20px 40px;
-    color: rgb(238, 146, 9);
     text-align: center;
     text-decoration: none;
     display: inline-block;
