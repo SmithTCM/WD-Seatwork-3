@@ -48,7 +48,17 @@ body {
     border: none;
     cursor: pointer;
 }
-
+.button-grp1 {
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    color: #f39c12;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 20px 10px;
+    border: none;
+    cursor: pointer;
+}
 .button:active{
     background-color: aquamarine;
     box-shadow: 0 1px gainsboro;
