@@ -31,6 +31,11 @@ body {
     flex-direction: column;
     align-items: center;
 }
+.header-icon1{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
 
 .buttons {
     margin-top: 10px;
@@ -193,7 +198,7 @@ body {
     background-size: cover;
  }
  
-#header2 { background-image: url(../img/Fatui_Symbol.webp);}
+#header2 { background-color: #16a085;}
 #header3 { background-color: #e74c3c; }
 #header4 { background-color: #9b59b6; }
 #header5 { background-color: #f1c40f; }
