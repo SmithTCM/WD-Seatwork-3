@@ -32,9 +32,14 @@ body {
     align-items: center;
 }
 .header-icon1{
-    width: 50px;
-    height: 50px;
+    position: absolute;
+    display: inline-block;
+    left: -10px;
+    top: 47%;
+    width: 150px;
+    height: 150px;
     margin: 10px;
+    transform: translateY(-50%);
 }
 
 .buttons {
