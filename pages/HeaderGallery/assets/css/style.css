@@ -35,9 +35,9 @@ body {
     position: absolute;
     display: inline-block;
     left: -10px;
-    top: 47%;
+    top: 43%;
     width: 150px;
-    height: 150px;
+    height: 110px;
     margin: 10px;
     transform: translateY(-50%);
 }
@@ -216,9 +216,11 @@ body {
  
 #header2 { 
     background-color: #100aca;
-    border-top: 2px solid #ffd700;
-    border-bottom: 2px solid #ffd700;
+    border-top: 5px solid #f42000;
+    border-bottom: 5px solid #f42000;
+    height: 125px;
 }
+
 #header3 { background-color: #e74c3c; }
 #header4 { background-color: #9b59b6; }
 #header5 { background-color: #f1c40f; }
